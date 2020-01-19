@@ -1,0 +1,18 @@
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.xml
+*.iws
+*.iml
+*.ipr
+
+### VS Code ###
+.vscode/
