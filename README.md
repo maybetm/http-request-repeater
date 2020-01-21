@@ -16,8 +16,8 @@ parameter 2: url exmaple: "https://domain.com/endPoint";
 parameter 3: request body; 
 example:
 "{\"type\":\"message_new\",\"object\":{\"date\":date_long,
-\"from_id\":from_id,\"id\":10217,\"out\":0,\"peer_id\":peer_id,
-\"text\":\"??\",\"conversation_message_id\":9140,\"fwd_messages\":[],
+\"from_id\":from_id,\"id\":111,\"out\":0,\"peer_id\":peer_id,
+\"text\":\"??\",\"conversation_message_id\":9999,\"fwd_messages\":[],
 \"important\":false,\"random_id\":0,\"attachments\":[],\"payload\":\"{\\"category\\":\\"first\\"}\",\"is_hidden\":false},\"group_id\":group_id,
 \"event_id\":\"event_id\",\"secret\":\"secred\"}"
 ```
@@ -27,8 +27,8 @@ example:
 ```
 java 500 "https://domain.com/endPoint" "{\"type\":\"message_new\",
 \"object\":{\"date\":date_long,\"from_id\":from_id,
-\"id\":10217,\"out\":0,\"peer_id\":peer_id,\"text\":\"??\",
-\"conversation_message_id\":9140,\"fwd_messages\":[],
+\"id\":3333,\"out\":0,\"peer_id\":peer_id,\"text\":\"??\",
+\"conversation_message_id\":9999,\"fwd_messages\":[],
 \"important\":false,\"random_id\":0,\"attachments\":[],
 \"payload\":\"{\\"category\\":\\"first\\"}\",
 \"is_hidden\":false},\"group_id\":group_id,
