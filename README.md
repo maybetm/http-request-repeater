@@ -25,7 +25,7 @@ example request json body:
 \"event_id\":\"event_id\",\"secret\":\"secred\"}"
 ```
 
-### run jar example: 
+### Run jar example: 
 
 ```
 java 500 "https://domain.com/endPoint" "{\"type\":\"message_new\",
