@@ -6,7 +6,7 @@
   </a>
 </p>
 
-Synchronous http requests repeater
+Sync http request repeater
 
 ### Application Input Parameters:
 
